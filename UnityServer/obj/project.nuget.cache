@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+12gwPUwvtT3IJzU51qR4NdgW4BHdsi4AfS3LBlQciKNIm++Iitooc1ZuVo1Mqyc1pTTcC9SWsKeAB4QJGRog==",
+  "dgSpecHash": "ebWTDT1jK+bVh/69gQ4+gmYwdctRgqqTOAqIbJ3SGWoe1IzlmArsZo+8iojg+wZlrxkkZuFt+wZHnBQH75+fGA==",
   "success": true,
-  "projectFilePath": "D:\\repos\\UnityServer\\UnityServer\\UnityServer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\juhoe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\repos\\UnityServer\\Csharp_server\\UnityServer\\UnityServer.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

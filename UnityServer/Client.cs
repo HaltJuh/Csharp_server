@@ -9,7 +9,7 @@ namespace UnityServer
 {
     class Client
     {
-        public static int dataBufferSize = 4096;    //Maximun sife of send data.
+        public static int dataBufferSize = 4096;    //Maximun size of send data.
 
         Server server;                              //Server class reference.
         public TcpClient socket;                    //Stores the connected clients socket as a TcpClient class.
