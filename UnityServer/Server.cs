@@ -13,7 +13,7 @@ namespace UnityServer
     class Server
     {
         static IPEndPoint localEndPoint;    //Instance of a IPEndPoint, stores the servers ip address and port.
-        static TcpListener listener;        //Instance of a TcpListener class, used for listening incoming connections to the given IPEndPoint.
+        static TcpListener listener;        //Instance of a TcpListener class, used for listening for incoming connections to the given IPEndPoint.
         public List<Client> clients;        //List of connected Client classes.
         int currentTurn;                    //keeps track of whose turn it currently is.
         bool running;                       //Is the server running?
@@ -226,10 +226,11 @@ namespace UnityServer
         /// </param>
         public void InstantiateExistingPlayers(Client client, SendType type)
         {
+            Console.WriteLine("Instantiating others.");
             for (int i = 0; i < clients.Count; i++)
             {
 
-                Console.WriteLine("Instantiating others.");
+                
                 string message = type.value + "!";
                 message += JsonSerializer.Serialize(clients[i].characterData);
 
