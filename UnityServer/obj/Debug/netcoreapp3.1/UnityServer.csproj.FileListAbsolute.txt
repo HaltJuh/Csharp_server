@@ -1,0 +1,13 @@
+C:\Users\Juho\source\repos\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.exe
+C:\Users\Juho\source\repos\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.deps.json
+C:\Users\Juho\source\repos\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.runtimeconfig.json
+C:\Users\Juho\source\repos\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.runtimeconfig.dev.json
+C:\Users\Juho\source\repos\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.dll
+C:\Users\Juho\source\repos\UnityServer\UnityServer\bin\Debug\netcoreapp3.1\UnityServer.pdb
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.AssemblyInfoInputs.cache
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.AssemblyInfo.cs
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.csproj.CoreCompileInputs.cache
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.dll
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.pdb
+C:\Users\Juho\source\repos\UnityServer\UnityServer\obj\Debug\netcoreapp3.1\UnityServer.genruntimeconfig.cache
